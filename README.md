@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Maryville University, Master's in Software Development  
-expected graduation: May 2021  
+# Maryville University, Master's in Software Development  
+### expected graduation: May 2021  
 email: mcolbert1@live.maryville.edu  
